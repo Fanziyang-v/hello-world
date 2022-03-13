@@ -1,1 +1,383 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T06:14:52.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="59_Z_nhW3XtVlRlpGq6Z" version="17.1.2" type="device"><diagram id="BuXtsXcVySWlx6Mmm9Na" name="第 1 页">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-13T09:49:26.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_5EARP7zzkRH6fJFqYrX" version="17.1.2" type="github">
+  <diagram id="BuXtsXcVySWlx6Mmm9Na" name="第 1 页">
+    <mxGraphModel dx="2211" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-27" value="组织发展的历史" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="10" y="770" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-28" value="组织发展的基础" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="186" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-27" target="HsYdKPXe6uzc6BNR9NX6-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-44" value="组织发展的诞生" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="186" y="535" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-45" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-27" target="HsYdKPXe6uzc6BNR9NX6-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-46" value="组织发展的发展" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="170" y="930" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-47" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-27" target="HsYdKPXe6uzc6BNR9NX6-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-52" value="历史背景：&lt;span style=&quot;font-size: 10.5pt&quot;&gt;第二次世界大战之后，为了提高社会生产力，企业面临着雇佣退伍军人和促进企业变革发展等挑战，佛雷德里克·泰勒提出的“科学管理”等传统企业组织和管理思维亟需改变。&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=#fff2cc;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="355" y="153" width="570" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-53" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-28" target="HsYdKPXe6uzc6BNR9NX6-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-56" value="&lt;span&gt;理论基础：库尔特·勒温的行为研究理论&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=#fff2cc;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="355" y="272" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-57" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-28" target="HsYdKPXe6uzc6BNR9NX6-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-58" value="变革模式" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="640" y="180" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-59" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-56" target="HsYdKPXe6uzc6BNR9NX6-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="231" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-68" value="力场分析" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="640" y="215" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-69" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-56" target="HsYdKPXe6uzc6BNR9NX6-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="232" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-74" value="变革阻力" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="640" y="260" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-75" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-56" target="HsYdKPXe6uzc6BNR9NX6-74" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="232" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-78" value="群体动力" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="640" y="310" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-79" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;" parent="1" target="HsYdKPXe6uzc6BNR9NX6-78" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="292" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-82" value="开放系统" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="640" y="350" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-83" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-56" target="HsYdKPXe6uzc6BNR9NX6-82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="362" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-86" value="三次重要融合" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="350" y="530" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-87" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-44" target="HsYdKPXe6uzc6BNR9NX6-86" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-90" value="个人和工作群组" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="485" y="440" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-91" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-86" target="HsYdKPXe6uzc6BNR9NX6-90" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-92" value="工作群组和更大的系统" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="485" y="530" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-93" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-86" target="HsYdKPXe6uzc6BNR9NX6-92" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-95" value="劳工问题和管理者的应对方式" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="490" y="640" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-96" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;" parent="1" target="HsYdKPXe6uzc6BNR9NX6-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="550" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-133" value="背景：公司全球化，集群化和专制社会向民主制度和私营化工商业发展：这些变化为组&lt;br&gt;织发展的应用创造了机会，也极大挑战者领导者和组织发展者的能力" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="355" y="1080" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-134" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-46" target="HsYdKPXe6uzc6BNR9NX6-133" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="1090" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-154" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-135" target="HsYdKPXe6uzc6BNR9NX6-153" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-135" value="组织发展咨询" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="364" y="1190" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-136" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-46" target="HsYdKPXe6uzc6BNR9NX6-135" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306" y="1665" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-137" value="组织发展能力与道德规范" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="360" y="1330" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-138" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-46" target="HsYdKPXe6uzc6BNR9NX6-137" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="1370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-139" value="专业组织发展协会和网络" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="355" y="1590" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-140" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-46" target="HsYdKPXe6uzc6BNR9NX6-139" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1660" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-144" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-141" target="HsYdKPXe6uzc6BNR9NX6-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-141" value="分享组织发展知识" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="360" y="1734" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-142" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-46" target="HsYdKPXe6uzc6BNR9NX6-141" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="1580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-143" value="University Associates" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="550" y="1734" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-147" value="20实际60年代末，建立了同行评审程序" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="600" y="1250" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-148" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-137" target="HsYdKPXe6uzc6BNR9NX6-147" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="1270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-149" value="1968年，建立了创造性变革社会" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="600" y="1290" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-150" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-137" target="HsYdKPXe6uzc6BNR9NX6-149" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="1260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-151" value="组织复兴和发展创造性变革社会" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="600" y="1340" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-152" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-137" target="HsYdKPXe6uzc6BNR9NX6-151" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="1200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-153" value="NTL 在这方面起到了带头作用，创建了咨询模式、理论和技能，&lt;br&gt;建立了从实践经验中学习如何成为有效的组织发展顾问的方法" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="500" y="1180" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-155" value="20世纪70年代，创立了组织发展学院" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="600" y="1380" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-156" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;" parent="1" target="HsYdKPXe6uzc6BNR9NX6-155" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-159" value="1981年，制定了组织发展道德规范" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="605" y="1420" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-160" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-137" target="HsYdKPXe6uzc6BNR9NX6-159" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="1490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-161" value="1964年，NTL建立了行业培训师网络" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="570" y="1520" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-162" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-139" target="HsYdKPXe6uzc6BNR9NX6-161" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1530" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-163" value="1971年，印度应用行为科学协会" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="570" y="1560" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-164" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-139" target="HsYdKPXe6uzc6BNR9NX6-163" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-165" value="1986年，国际组织发展协会" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="570" y="1610" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-166" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-139" target="HsYdKPXe6uzc6BNR9NX6-165" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-167" value="1980年，支点网络" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="570" y="1650" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-168" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-139" target="HsYdKPXe6uzc6BNR9NX6-167" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1690" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-169" value="组织发展领域的探索和扩展" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="350" y="2110" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-170" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-46" target="HsYdKPXe6uzc6BNR9NX6-169" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1885" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-171" value="感兴趣的方向和领域" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="580" y="1800" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-172" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-169" target="HsYdKPXe6uzc6BNR9NX6-171" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1850" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-175" value="开放系统方法" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="963" y="1980" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-176" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-179" target="HsYdKPXe6uzc6BNR9NX6-175" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593" y="1900" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-177" value="多样化和社会平等" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="948" y="2110" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-178" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-179" target="HsYdKPXe6uzc6BNR9NX6-177" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="613" y="1990" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-179" value="组织发展的持续发展中不断演变的几大主题" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="565" y="2450" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-180" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-169" target="HsYdKPXe6uzc6BNR9NX6-179" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="2150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-183" value="倡导组织发展的多样化以及倡导”管理“和”价值“的多样.." style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="760" y="1770" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-184" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-171" target="HsYdKPXe6uzc6BNR9NX6-183" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="1815" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-186" value="将社会技术系统设计、自我管理团队和全面质量管理的研究." style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="760" y="1830" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-187" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-171" target="HsYdKPXe6uzc6BNR9NX6-186" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="1870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-188" value="全球化与文化" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="958" y="2290" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-189" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-179" target="HsYdKPXe6uzc6BNR9NX6-188" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="933" y="2280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-190" value="管理者的需求" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="953" y="2250" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-191" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-179" target="HsYdKPXe6uzc6BNR9NX6-190" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="938" y="2160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-192" value="品质与卓越" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="960" y="2338" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-193" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-179" target="HsYdKPXe6uzc6BNR9NX6-192" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="943" y="2410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-194" value="领导力和情商" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="955" y="2390" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-195" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-179" target="HsYdKPXe6uzc6BNR9NX6-194" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="933" y="2490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-196" value="欣赏式探询" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="963" y="2480" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-197" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-179" target="HsYdKPXe6uzc6BNR9NX6-196" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="933" y="2570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-198" value="整体系统和探索" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="948" y="2620" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-199" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-179" target="HsYdKPXe6uzc6BNR9NX6-198" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="928" y="2690" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-209" value="学习型组织" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="953" y="2750" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-210" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-179" target="HsYdKPXe6uzc6BNR9NX6-209" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="863" y="2870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-211" value="高管教练" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="958" y="2853" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-212" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-179" target="HsYdKPXe6uzc6BNR9NX6-211" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="868" y="2970" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-213" value="对话式组织发展" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="948" y="2920" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-214" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HsYdKPXe6uzc6BNR9NX6-179" target="HsYdKPXe6uzc6BNR9NX6-213" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="878" y="3060" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-242" value="&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-100" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HsYdKPXe6uzc6BNR9NX6-243" value="&lt;h1&gt;注意：&lt;/h1&gt;&lt;p&gt;红色背景的框需要添加文字，图片上的文字看不全，所以有些只打了一部分。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="5" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
