@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T07:20:37.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="WN94yYrCLgStQLeONocC" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T07:22:48.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="p8l9jAJJyriiUIzW-F9m" version="20.1.1" type="github">
   <diagram id="YXL35Tot_iSEstU2W5GE" name="第 1 页">
-    <mxGraphModel dx="550" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2047" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,51 @@
         </mxCell>
         <mxCell id="0L0JE-Sj9IkShsJNqOTu-15" value="只有主线程&lt;b&gt;一条&lt;/b&gt;执行路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="125" y="510" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0L0JE-Sj9IkShsJNqOTu-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="190" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="0L0JE-Sj9IkShsJNqOTu-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;主线程&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0L0JE-Sj9IkShsJNqOTu-19" value="t.start()" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0L0JE-Sj9IkShsJNqOTu-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=19;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" source="0L0JE-Sj9IkShsJNqOTu-17" target="0L0JE-Sj9IkShsJNqOTu-19" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-370" y="240" as="sourcePoint" />
+            <mxPoint x="-150" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0L0JE-Sj9IkShsJNqOTu-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=19;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" source="0L0JE-Sj9IkShsJNqOTu-19" target="0L0JE-Sj9IkShsJNqOTu-17" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="420" as="sourcePoint" />
+            <mxPoint x="-330" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0L0JE-Sj9IkShsJNqOTu-22" value="&lt;b&gt;调用 start()&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0L0JE-Sj9IkShsJNqOTu-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="280" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0L0JE-Sj9IkShsJNqOTu-24" value="&lt;b&gt;主线程执行start()&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0L0JE-Sj9IkShsJNqOTu-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=19;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0.211;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" source="0L0JE-Sj9IkShsJNqOTu-23" target="0L0JE-Sj9IkShsJNqOTu-23" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="350" as="sourcePoint" />
+            <mxPoint x="-80" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0L0JE-Sj9IkShsJNqOTu-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=19;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" source="0L0JE-Sj9IkShsJNqOTu-17" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="385" as="sourcePoint" />
+            <mxPoint x="-120" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0L0JE-Sj9IkShsJNqOTu-28" value="&lt;b&gt;多条&lt;/b&gt;执行路径，主线程和子线程并行交替执行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="510" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
