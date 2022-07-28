@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T16:54:32.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.0" etag="OGfD_EISgnoXL0vc1XJL" type="github"><diagram id="ttALBeozmWoOxXIF8Wp6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-28T17:00:25.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="apEpFyNfUP0ylKOIGSb9" version="20.2.0" type="github">
+  <diagram id="ttALBeozmWoOxXIF8Wp6" name="第 1 页">
+    <mxGraphModel dx="1338" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-1" value="Mindmap" style="swimlane;startSize=20;horizontal=1;containerType=tree;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="50" width="900" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" parent="S6J0eopQ2JnUFEsmFY2t-1" source="S6J0eopQ2JnUFEsmFY2t-6" target="S6J0eopQ2JnUFEsmFY2t-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" parent="S6J0eopQ2JnUFEsmFY2t-1" source="S6J0eopQ2JnUFEsmFY2t-6" target="S6J0eopQ2JnUFEsmFY2t-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-5" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" parent="S6J0eopQ2JnUFEsmFY2t-1" source="S6J0eopQ2JnUFEsmFY2t-6" target="S6J0eopQ2JnUFEsmFY2t-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-6" value="SpringBoot自动装配" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry x="160" y="60" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-7" value="@SpringBootConfiguration" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry x="340" y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-9" value="Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry x="20" y="40" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-10" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry x="20" y="80" width="72" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-19" value="@EnableAutoConfiguration" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry x="340" y="90" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-20" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="S6J0eopQ2JnUFEsmFY2t-19" parent="S6J0eopQ2JnUFEsmFY2t-1" source="S6J0eopQ2JnUFEsmFY2t-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-26" value="@ComponentScan" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry x="340" y="150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-27" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="S6J0eopQ2JnUFEsmFY2t-26" parent="S6J0eopQ2JnUFEsmFY2t-1" source="S6J0eopQ2JnUFEsmFY2t-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="105" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="S6J0eopQ2JnUFEsmFY2t-29" source="S6J0eopQ2JnUFEsmFY2t-7" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="145" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-29" value="@Configuration" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry x="600" y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-30" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="S6J0eopQ2JnUFEsmFY2t-31" source="S6J0eopQ2JnUFEsmFY2t-19" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="145" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-31" value="@AutoConfigurationPackage" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry x="565" y="80" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-32" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="S6J0eopQ2JnUFEsmFY2t-33" source="S6J0eopQ2JnUFEsmFY2t-29" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="95" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-33" value="Component" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry x="780" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-34" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="S6J0eopQ2JnUFEsmFY2t-35" source="S6J0eopQ2JnUFEsmFY2t-19" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="145" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6J0eopQ2JnUFEsmFY2t-35" value="@import(AutoConfigurationImportSelector.class)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="S6J0eopQ2JnUFEsmFY2t-1">
+          <mxGeometry x="565" y="120" width="300" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
